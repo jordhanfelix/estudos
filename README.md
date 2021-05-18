@@ -19,7 +19,7 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 ## :memo: Licença
 
-Esse projeto está sob a licença [NPM](https://img.shields.io/npm/l/express)]. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
 
 ---
 
