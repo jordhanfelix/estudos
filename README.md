@@ -6,7 +6,7 @@
 Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github.com/vitorlmello) , para aprimorar nossos conhecimentos em programação e expandir a medida que seguimos realizando cursos.
 
 
-## Tecnologias
+## :wrench: Tecnologias
 C#
 
 ## Cursos
