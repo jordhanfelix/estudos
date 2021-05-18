@@ -7,7 +7,7 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 
 ## :wrench: Tecnologias
-![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)(https://github.com/vitorlmello)
+![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png as (https://github.com/vitorlmello))
 
 ## Cursos
 
