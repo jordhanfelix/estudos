@@ -16,3 +16,11 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 ## :mortar_board: Cursos
 
 ## :triangular_ruler: Projetos
+
+## :memo: Licença
+
+Esse projeto está sob a licença [NPM](https://img.shields.io/npm/l/express)]. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+
+---
+
+Feito com :heart: by Jordhan Félix :wave:
