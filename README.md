@@ -7,7 +7,7 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 
 ## :wrench: Tecnologias
-* c#
+* C#
 
 ## :mortar_board: Cursos
 
