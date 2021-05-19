@@ -26,9 +26,6 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
 
 ---
 
