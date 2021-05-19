@@ -3,6 +3,15 @@
 
 [![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT)
 
+<p align="right">
+  <a href="https://img.shields.io/npm/l/express">
+      <img src="https://opensource.org/licenses/MIT" alt="License" />
+   </a>
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/jordhanfelix/estudos" alt="Visitors badge" />
+   </a>
+</p>
+
 <h2 align="center">
   Sobre :notebook_with_decorative_cover:
 </h2>
