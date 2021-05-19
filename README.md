@@ -1,12 +1,10 @@
 
 <img alt="Estudos" src="https://user-images.githubusercontent.com/46610114/118693618-9a594b80-b7e1-11eb-826b-a06c125022c9.png" />
 
-[![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT) [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
-<a href="https://opensource.org/licenses/MIT">
-<img align="right" src="https://img.shields.io/npm/l/express">
-</a> <a href="https://badges.pufler.dev">
+ <a href="https://badges.pufler.dev">
 <img align="right" src="https://badges.pufler.dev/visits/jordhanfelix/estudos">
+</a> <a href="https://opensource.org/licenses/MIT">
+<img align="right" src="https://img.shields.io/npm/l/express">
 </a>
 
 
