@@ -1,17 +1,7 @@
 
 <img alt="Estudos" src="https://user-images.githubusercontent.com/46610114/118693618-9a594b80-b7e1-11eb-826b-a06c125022c9.png" />
 
-[![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT)
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/jordhanfelix/estudos" alt="Visitors badge" />
-   </a>
-</p>
-
- <a href="https://img.shields.io/npm/l/express">
-      <img src="https://opensource.org/licenses/MIT" alt="Visitors badge" />
-   </a>
+[![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT) [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 <h2 align="center">
   Sobre :notebook_with_decorative_cover:
