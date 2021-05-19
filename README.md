@@ -4,9 +4,7 @@
 [![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT)
 
 <p align="right">
-  <a href="https://img.shields.io/npm/l/express">
-      <img src="https://opensource.org/licenses/MIT" alt="License" />
-   </a>
+  [![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT)
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/jordhanfelix/estudos" alt="Visitors badge" />
    </a>
