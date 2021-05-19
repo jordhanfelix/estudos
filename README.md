@@ -3,6 +3,9 @@
 
 [![NPM](https://img.shields.io/npm/l/express)](https://opensource.org/licenses/MIT) [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
+
+<img align="right" src="https://img.shields.io/npm/l/express">
+
 <h2 align="center">
   Sobre :notebook_with_decorative_cover:
 </h2>
