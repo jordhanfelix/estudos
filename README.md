@@ -12,7 +12,7 @@
   Sobre :notebook_with_decorative_cover:
 </h2>
 
-Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github.com/vitorlmello) , para aprimorar nossos conhecimentos em programação e expandir a medida que seguimos realizando cursos.
+Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github.com/vitorlmello) , para aprimorar e expandir nossos conhecimentos em programação a medida que realizamos novos cursos
 
 
 ## :wrench: Tecnologias
