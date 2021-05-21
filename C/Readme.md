@@ -14,7 +14,7 @@
 
 Alguns codigos desenvolvidos usando a linguagem C. O objetivo deste desenvolvimento é praticar o inicio da logida de programação utilizando C.
 
-Exemplo 1: Cambio 
+Exemplo 1: [Cambio](https://github.com/JordhanFelix/estudos/blob/main/C/cambio/conversorDeDolar.c) 
 
 Monte um algoritmo de modo que seja possível ler um valor em dólares e devolva para o usuário este valor convertido em reais. Considere que US$ 1,00 = R$ 3,85.
 
