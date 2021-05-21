@@ -16,7 +16,7 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 
 ## :wrench: Tecnologias
-* C
+* [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 * C#
 
 ## :mortar_board: Cursos
