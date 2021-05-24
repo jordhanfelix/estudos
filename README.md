@@ -19,7 +19,9 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 * [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 * C#
 
-## :mortar_board: Cursos
+## :rocket: Bootcamps
+
+* [Take Blip Fullstack Developer](https://web.digitalinnovation.one/track/take-blip-fullstack-developer)
 
 ## :triangular_ruler: Projetos
 
