@@ -21,7 +21,7 @@ Um desafio proposto e realizado junto do meu amigo, [Vitor Mello](https://github
 
 ## :rocket: Bootcamps
 
-* [Take Blip Fullstack Developer](https://web.digitalinnovation.one/track/take-blip-fullstack-developer)
+* [Take Blip Fullstack Developer](https://github.com/JordhanFelix/estudos/tree/main/TakeBlipFullstackDeveloper)
 
 ## :triangular_ruler: Projetos
 
