@@ -19,6 +19,9 @@ Resolvi começar um novo desafio, o bootcamp da Take Blip Fullstack Developer of
 <h3 align="left">
  <a href="https://github.com/JordhanFelix/estudos/tree/main/TakeBlipFullstackDeveloper/DIO.Series">* Série</a>
 </h3>
+
+* [Série](https://github.com/JordhanFelix/estudos/tree/main/TakeBlipFullstackDeveloper/DIO.Series)
+
 <p>Aplicação console criada em c# utilizando conceitos de POO(Programação Orientada a Objetos). É uma aplicação de cadastro de séries em memoria criada para praticar conhecimetos adiquiridos no bootcamp Take Blip Fullstack Developer</p>
 
 ---
