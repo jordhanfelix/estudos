@@ -14,8 +14,11 @@
 
 Resolvi começar um novo desafio, o bootcamp da Take Blip Fullstack Developer oferecido pela [Digital Innovation One](https://web.digitalinnovation.one/track/take-blip-fullstack-developer) . O Botcamp tem como objetivo desenvolver soluções fullstack aproveitando o melhor que o C#, a principal linguagem da Microsoft pode oferecer, e criar aplicações completas utilizando React no front-end.
 
+---
 
-
+<h3 align="left">
+ <a href="https://github.com/JordhanFelix/estudos/tree/main/TakeBlipFullstackDeveloper/DIO.Series">Série</a>
+</h3>
 
 ---
 
