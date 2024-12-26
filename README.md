@@ -24,6 +24,9 @@ Aqui estão algumas das linguagens e tecnologias que estou explorando:
 - [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 - [C#](https://github.com/JordhanFelix/estudos/tree/main/Csharp)
 
+## :wrench: Livros
+- [Mergulho nos Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns/book)
+
 ---
 
 Feito com :heart: por [Jordhan Félix](https://github.com/JordhanFelix) :wave:
