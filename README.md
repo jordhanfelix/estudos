@@ -19,7 +19,7 @@ Este repositório contém meus estudos em várias áreas da programação, abord
 
 ## :wrench: Tecnologias
 
-Aqui estão algumas das linguagens e tecnologias que estou explorando:
+Aqui estão alguns dos conceitos e tecnologias que estou explorando:
 
 - [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 - [C#](https://github.com/JordhanFelix/estudos/tree/main/Csharp)
