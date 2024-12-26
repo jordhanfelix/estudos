@@ -24,8 +24,11 @@ Aqui estão algumas das linguagens e tecnologias que estou explorando:
 - [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 - [C#](https://github.com/JordhanFelix/estudos/tree/main/Csharp)
 
-## :wrench: Livros
-- [Mergulho nos Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns/book)
+## :books: Leituras Realizadas
+
+- [Mergulho nos Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns/book) 
+- [Código Limpo](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/) 
+
 
 ---
 
