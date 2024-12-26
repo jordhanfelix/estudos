@@ -23,24 +23,7 @@ Aqui estão algumas das linguagens e tecnologias que estou explorando:
 
 - [C](https://github.com/JordhanFelix/estudos/tree/main/C)
 - [C#](https://github.com/JordhanFelix/estudos/tree/main/Csharp)
-- [Java + Spring Boot](https://github.com/JordhanFelix/estudos/tree/main/JavaSpringBoot) (Em breve)
-<!-- Comentário aqui 
-## :triangular_ruler: Desafios
 
-Aqui você encontrará projetos que desenvolvi durante meus estudos:
-
-- [Projeto 1](#) - Descrição breve do projeto.
-- [Projeto 2](#) - Descrição breve do projeto.
-- [Projeto 3](#) - Descrição breve do projeto.
-
-## :books: Cursos e Pesquisas
-
-Estou continuamente fazendo cursos e pesquisando novas tecnologias. Aqui estão alguns deles:
-
-- [Curso 1](#) - Descrição breve do curso.
-- [Curso 2](#) - Descrição breve do curso.
-- [Curso 3](#) - Descrição breve do curso.
--->
 ---
 
 Feito com :heart: por [Jordhan Félix](https://github.com/JordhanFelix) :wave:
